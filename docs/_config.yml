@@ -1,0 +1,1 @@
+include: [_layouts, _media, _coverpage.md, _navbar.md, _sidebar.md]
